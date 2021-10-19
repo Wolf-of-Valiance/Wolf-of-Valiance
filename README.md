@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Brandon Ortiz and currently 23 years old!
+- 👋 Hi, I’m Brandon Ortiz and currently 22 years old!
 - 👀 I’m a gamer, cybersecurity nerd, and aspiring ethical hacker!
 - 🌱 I’m currently studying Cybersecurity Analytics and Operations at Pennsylvania State University (Online)
 - 💞️ I’m looking to collaborate on projects pertaining to security software, port scanners, and in-development pentesting tools that would make the cyber-realm a better place!
